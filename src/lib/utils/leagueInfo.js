@@ -7,8 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>🏈 Welcome to the The Thunder Cup Fantasy Football League!.</p>
- `;
+   `;
 
 /*   STEP 3   */
 /*
