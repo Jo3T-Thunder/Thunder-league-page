@@ -12,7 +12,7 @@ export const homepageText = `
   <p>Here you'll find schedules, standings, league history, weekly matchups, and all the drama that comes with a season of gridiron glory. Powered by Sleeper, our league runs with real-time updates, trades, and trash talk – all in one place.</p>
   <p>So draft smart, set your lineups, and let the best GM win.</p>
   <p>This is more than a game. This is THE THUNDER CUP.</p>
- 
+ `;
 
 /*   STEP 3   */
 /*
