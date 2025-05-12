@@ -8,10 +8,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>🏈 Welcome to the The Thunder Cup Fantasy Football League!.</p>
-  <p>Welcome to the official home of the The Thunder Cup – where legends are made, rivalries are real, and bragging rights are everything. Whether you’re a fantasy veteran or a rookie ready to make waves, this league is where strategy, luck, and smack talk collide.</p>
-  <p>Here you'll find schedules, standings, league history, weekly matchups, and all the drama that comes with a season of gridiron glory. Powered by Sleeper, our league runs with real-time updates, trades, and trash talk – all in one place.</p>
-  <p>So draft smart, set your lineups, and let the best GM win.</p>
-  <p>This is more than a game. This is THE THUNDER CUP.</p>
  `;
 
 /*   STEP 3   */
